@@ -20,7 +20,7 @@
 
 # \## How to use
 
-# 1\. Open the \[index.html](index.html) file in your browser.
+# 1\. download and extract the file and open Phone2QRCodeGenerator.html file
 
 # 2\. Enter the phone number (e.g., +971 50 123 4567).
 
